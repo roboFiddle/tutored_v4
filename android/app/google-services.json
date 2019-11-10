@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469903802330",
+    "firebase_url": "https://tutor-ed.firebaseio.com",
+    "project_id": "tutor-ed",
+    "storage_bucket": "tutor-ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469903802330:android:bb2da278f8b5d7dc038ae3",
+        "android_client_info": {
+          "package_name": "org.tutored.tutored"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469903802330-2oin5b4qh0o3bdq9p0odsgsbtihb1uce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tutored.tutored",
+            "certificate_hash": "5236aa8bdd642da2ddc5743fe43dabd91ee407b3"
+          }
+        },
+        {
+          "client_id": "469903802330-eu2g29asu6rsf6bgedgavulibpg89l0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoCQnKTwXZxUoliQ0DS2uQ1t0IWHHwRnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469903802330-eu2g29asu6rsf6bgedgavulibpg89l0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
